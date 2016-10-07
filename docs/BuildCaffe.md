@@ -31,6 +31,7 @@ Setting the `CAFFE_ROOT` environment variable will help DIGITS automatically det
 
 Several PyPI packages need to be installed:
 ```sh
+sudo pip install setuptools
 sudo pip install -r $CAFFE_ROOT/python/requirements.txt
 ```
 
